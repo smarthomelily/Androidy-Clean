@@ -131,11 +131,14 @@ Androidy-Clean/
 
 ## Teil der Androidy-Familie
 
+## Teil der Androidy-Familie
+
 | Tool | Beschreibung |
-|------|--------------|
-| **Androidy Clean** | Windows Cleaning & Privacy Tool |
+| :--- | :--- |
+| [Androidy Clean](https://github.com/smarthomelily/Androidy-Clean) | Windows Cleaning & Privacy Tool |
 | [Androidy Install](https://github.com/smarthomelily/Androidy-Install) | WinGet Installer |
-| Androidy Umzug | PC-Migration (coming soon) |
+| [Androidy Update](https://github.com/smarthomelily/Androidy-Update) | Windows Update Tool |
+| **Androidy Umzug** | PC-Migration & Datensicherung (coming soon) |
 
 ## FAQ
 

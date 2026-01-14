@@ -131,8 +131,6 @@ Androidy-Clean/
 
 ## Teil der Androidy-Familie
 
-## Teil der Androidy-Familie
-
 | Tool | Beschreibung |
 | :--- | :--- |
 | [Androidy Clean](https://github.com/smarthomelily/Androidy-Clean) | Windows Cleaning & Privacy Tool |

@@ -1,0 +1,19 @@
+# Logs
+*.log
+Androidy-Clean.log
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Backup files
+*.bak
+*.old
+
+# Temp files
+*.tmp
+~$*

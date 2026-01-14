@@ -1,32 +1,27 @@
 # Androidy Clean - .gitignore
 
-# Log-Dateien
+# Log- und temporäre Dateien
 *.log
 Androidy-Clean.log
+*.tmp
+*.temp
+*~
 
-# Windows
+# Windows Systemdateien
 Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
-# PowerShell Backups
+# PowerShell & Backup Dateien
+*.bak
 *.ps1.bak
 *.psd1.bak
-
-# Editor-Dateien
 *.swp
-*.bak
-*.tmp
-*~
 
-# VS Code
+# Editor-Einstellungen (VS Code & JetBrains)
 .vscode/
-
-# JetBrains
 .idea/
 
-# macOS
+# Betriebssystem-Spezifisches (macOS / Lokale Links)
 .DS_Store
-
-# Generierte Verknüpfungen (lokal)
 *.lnk

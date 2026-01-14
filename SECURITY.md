@@ -1,14 +1,14 @@
-# Sicherheitsrichtlinie
+# Sicherheitsrichtlinie (Security Policy)
 
 ## Unterstützte Versionen
 
 | Version | Unterstützt |
 |---------|-------------|
-| 1.0.x   | ✅ Ja       |
+| 1.0.x   | ✅ Ja        |
 
 ## Sicherheitslücke melden
 
-Wenn du eine Sicherheitslücke in Androidy Clean findest:
+Wenn du eine Sicherheitslücke in **Androidy Clean** findest:
 
 1. **Erstelle KEIN öffentliches Issue**
 2. Kontaktiere mich direkt über [GitHub Security Advisories](../../security/advisories/new)
@@ -29,12 +29,11 @@ Wenn du eine Sicherheitslücke in Androidy Clean findest:
 
 ## Sicherheitshinweise
 
-Androidy Clean:
+**Androidy Clean:**
 
-- Benötigt Administrator-Rechte für volle Funktionalität
-- Löscht Daten **unwiderruflich**
-- Führt keine Netzwerk-Operationen durch
-- Sammelt keine Telemetrie-Daten
-- Speichert keine persönlichen Daten außerhalb des lokalen Logs
+- Benötigt Administrator-Rechte für volle Funktionalität.
+- Löscht Daten **unwiderruflich** (z. B. Papierkorb, Temp-Dateien).
+- Führt **keine Netzwerk-Operationen** durch und arbeitet rein lokal.
+- Sammelt keine Telemetrie-Daten und speichert keine persönlichen Informationen.
 
 Danke für deinen Beitrag zur Sicherheit! 🔒
